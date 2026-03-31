@@ -1,4 +1,4 @@
-# # RepYOLOv5-SF3D
+# RepYOLOv5-SF3D
 
 A cascaded framework for fine-grained student behavior recognition in complex classroom scenes.
 
@@ -51,8 +51,13 @@ These results indicate its potential for routine deployment on edge computing de
 
 ## Data Availability
 
-In accordance with the journal’s requirements, part of the dataset has been uploaded. The remaining datasets are stored on our cloud drive and are available upon request by email to **sun_ching@163.com**.
+In accordance with the journal’s requirements, part of the dataset has been uploaded. The remaining datasets are stored on our cloud drive and are available upon reasonable request by email to **sun_ching@163.com**. The core parts of the code will be uploaded to the repository after the paper is accepted.
 
+## Contact
+
+For questions regarding the dataset or this work, please contact:
+
+**sun_ching@163.com**
 ## Contact
 
 For questions regarding the dataset or this work, please contact:
